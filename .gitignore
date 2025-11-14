@@ -1,0 +1,21 @@
+# Global ignores
+node_modules/
+.env
+.env.* 
+credentials.json
+*.log
+.DS_Store
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/credentials.json
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/credentials.json
+
+# Docker
+Dockerfile
+docker-compose.yml

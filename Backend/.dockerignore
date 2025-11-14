@@ -1,0 +1,8 @@
+# 🔒 Never include these in images
+.env
+credentials.json
+node_modules
+.git
+Dockerfile
+docker-compose.yml
+*.md
