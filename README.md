@@ -132,16 +132,4 @@ If you have ideas, improvements, or bug fixes — feel free to open an issue.
 👨‍💻 Author
 Built by Abhimanue T J
 Kerala, India
-🚀 Passionate about automation, AI, and full-stack development.
-
----
-
-If you want, I can also generate:
-
-✅ Logo for your project  
-✅ Badges (build passing, node version, etc.)  
-✅ Screenshot section  
-✅ Setup video tutorial section  
-✅ API documentation (Swagger-style)
-
-Just tell me — **“Add more sections”**
+ 
